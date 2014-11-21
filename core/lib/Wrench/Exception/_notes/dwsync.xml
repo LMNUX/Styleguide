@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CloseException.php" server="ftp.davecurtisphotographer.co.uk//for.co.uk/work/lmn/styleguide/" local="130557926780000000" remote="130608600600000000" Dst="1" />
+<file name="BadRequestException.php" server="ftp.davecurtisphotographer.co.uk//for.co.uk/work/lmn/styleguide/" local="130557926780000000" remote="130608600600000000" Dst="1" />
+<file name="ConnectionException.php" server="ftp.davecurtisphotographer.co.uk//for.co.uk/work/lmn/styleguide/" local="130557926780000000" remote="130608600600000000" Dst="1" />
+<file name="Exception.php" server="ftp.davecurtisphotographer.co.uk//for.co.uk/work/lmn/styleguide/" local="130557926780000000" remote="130608600600000000" Dst="1" />
+<file name="FrameException.php" server="ftp.davecurtisphotographer.co.uk//for.co.uk/work/lmn/styleguide/" local="130557926780000000" remote="130608600600000000" Dst="1" />
+<file name="HandshakeException.php" server="ftp.davecurtisphotographer.co.uk//for.co.uk/work/lmn/styleguide/" local="130557926780000000" remote="130608600600000000" Dst="1" />
+<file name="PayloadException.php" server="ftp.davecurtisphotographer.co.uk//for.co.uk/work/lmn/styleguide/" local="130557926780000000" remote="130608600600000000" Dst="1" />
+<file name="InvalidOriginException.php" server="ftp.davecurtisphotographer.co.uk//for.co.uk/work/lmn/styleguide/" local="130557926780000000" remote="130608600600000000" Dst="1" />
+<file name="RateLimiterException.php" server="ftp.davecurtisphotographer.co.uk//for.co.uk/work/lmn/styleguide/" local="130557926780000000" remote="130608600600000000" Dst="1" />
+<file name="SocketException.php" server="ftp.davecurtisphotographer.co.uk//for.co.uk/work/lmn/styleguide/" local="130557926780000000" remote="130608600600000000" Dst="1" />
+</dwsync>
